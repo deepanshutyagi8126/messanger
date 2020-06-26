@@ -265,14 +265,14 @@ function readURL(input) {
     if (input.files && input.files[0]) {
         var reader = new FileReader();
         reader.onload = function(e) {
-            $('#imagePreview').css('background-image', 'url('+e.target.result +')');
-            $('#imagePreview').hide();
-            $('#imagePreview').fadeIn(650);
+            $('#imagePreview,#imagePreview2').css('background-image', 'url('+e.target.result +')');
+            $('#imagePreview,#imagePreview2').hide();
+            $('#imagePreview,#imagePreview2').fadeIn(650);
         }
         reader.readAsDataURL(input.files[0]);
     }
 }
-$("#imageUpload").change(function() {
+$("#imageUpload,#imageUpload2").change(function() {
     readURL(this);
 });
 
@@ -295,6 +295,17 @@ $(document).on('click','.chatAll ul li a',function(){
 		$(document).on('click','.backMob',function(){
 	$('.messageInner').hide();
 	$('.messageLeft').show();
+});
+		$(document).on('click','.help' ,function(){
+			$('.HelpIn').show();
+			$('.faqAll').hide();
+		});
+		$(document).on('click','.allSettings.helpSetting ul li a' ,function(){
+	$(".helpShow").removeClass('active').addClass('active');
+			if($('.helpShow').hasClass('active')){
+				$('.helpShow').show();
+				$('.HelpIn').hide();
+			}
 });
 	}
 });

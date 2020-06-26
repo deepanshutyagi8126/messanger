@@ -2390,9 +2390,14 @@ input.upload {
     font-size: 20px;
     cursor: pointer;
     opacity: 0;
+	    width: 25px;
     filter: alpha(opacity=0);
 }
+.outAll .dropdownAll {
+    right: 2px;
+    top: 15px;
 
+}
 
 /*avatar-images code start*/
 
@@ -2495,4 +2500,37 @@ span.participte{
 .backMob{
 	display: none;
 	cursor: pointer;
+}
+.contactUpload .avatar-upload{
+	display: inline-block;
+}
+.contactUpload .avatar-upload .avatar-preview > div{
+	border-radius: unset;
+}
+.contactUpload .avatar-upload .avatar-preview{
+	width: 90px;
+	height: 90px;
+}
+.contactUpload .avatar-upload .avatar-edit input + label:after {
+    content: url(../img/upload.svg);
+	left: 25px;
+	top: 25px;
+}
+.contactUpload .avatar-upload .avatar-edit input + label {
+    width: 90px;
+    position: absolute;
+    left: 206px;
+    border: crimson;
+	top: -25px;
+    height: 90px;
+    margin-bottom: 0;
+     border-radius: unset; 
+    background: transparent;
+      border: 1px dashed #8edbea;
+    cursor: pointer;
+    font-weight: normal;
+    transition: all 0.2s ease-in-out;
+}
+.contactUpload{
+	padding-top: 10px;
 }

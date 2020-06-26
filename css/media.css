@@ -15,7 +15,10 @@
 @media(max-width:1920px){
 .force-overflow,.talkAll.force-overflow3 {
     height: 86vh;
-}			
+}	
+	.force-overflow7 {
+    height: 93vh;
+}
 }
 @media(max-width:1750px){
 	.force-overflow, .talkAll.force-overflow3 {
@@ -29,6 +32,9 @@
 	.force-overflow, .talkAll.force-overflow3 {
     height: 83vh;
 }
+	.force-overflow7 {
+    height: 92vh;
+}
 }
 @media(max-width:1367px){
 	.force-overflow, .talkAll.force-overflow3 {
@@ -36,6 +42,9 @@
 }
 	.createBtn a {
     left: 25%;
+}
+	.force-overflow7 {
+    height: 91vh;
 }
 }
 @media(max-width:1199px){
@@ -89,6 +98,12 @@
 		.prImg::after{
 		right: -75px;
 	}
+	.allFaq1{
+		padding: 0 25px;
+	}
+	.faqQuestion a{
+		padding-right: 45px;
+	}
 }
 @media(max-width:991px){
 .messageLeft {
@@ -131,13 +146,16 @@
 
 @media(max-width:991px){
 	.messageLeft {
-    width: 100%;
+    width: 350px;
 }
-	.messageRight{
-		display: none;
-	}
 }
 @media(max-width:767px){
+		.messageLeft {
+    width: 100%;
+}
+		.messageRight{
+		display: none;
+	}
 	.backMob{
 		display: block;
 		    margin-right: 10px;
@@ -171,10 +189,13 @@
 	.dropdownAll ,.arrow{
 		display: none !important;
 	}
+	.faqAll{
+		display: none;
+	}
 }
 @media(max-width:560px){
 .talkAll.force-overflow3 {
-    padding: 15px 20px;
+    padding: 15px 30px;
 }
 	.imcomingHead{
 		padding: 6px 20px;
@@ -223,4 +244,8 @@
 	h2.mainHeading{
 		font-size: 16px;
 	}
+	.leftsidedel {
+    width: 36%;
+
+}
 }
