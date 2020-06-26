@@ -148,6 +148,9 @@
 	.messageLeft {
     width: 350px;
 }
+	.sendInput {
+    width: 75%;
+}
 }
 @media(max-width:767px){
 		.messageLeft {
@@ -247,5 +250,14 @@
 	.leftsidedel {
     width: 36%;
 
+}
+	.sendOption {
+padding: 10px 15px;
+}
+.sendInput {
+    width: 72%;
+}
+	.force-overflow, .talkAll.force-overflow3 {
+    height: 80vh;
 }
 }

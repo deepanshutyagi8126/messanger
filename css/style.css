@@ -2534,3 +2534,10 @@ span.participte{
 .contactUpload{
 	padding-top: 10px;
 }
+	.mLefthead{
+		display: flex;
+	}
+
+.incomeSearch ul li:last-child{
+	margin-right: 0;
+}
