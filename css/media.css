@@ -1,0 +1,226 @@
+@media(max-width:2055px){
+.force-overflow,.talkAll.force-overflow3 {
+    height: 87vh;
+}	
+.force-overflow7 {
+    height: 94vh;
+}
+	.force-overflow.force-overflow2 {
+    height: 91vh;
+}
+	.createBtn a {
+    left: 15%;
+}
+}
+@media(max-width:1920px){
+.force-overflow,.talkAll.force-overflow3 {
+    height: 86vh;
+}			
+}
+@media(max-width:1750px){
+	.force-overflow, .talkAll.force-overflow3 {
+    height: 85vh;
+}
+	.createBtn a {
+    left: 20%;
+}
+}
+@media(max-width:1560px){
+	.force-overflow, .talkAll.force-overflow3 {
+    height: 83vh;
+}
+}
+@media(max-width:1367px){
+	.force-overflow, .talkAll.force-overflow3 {
+    height: 81vh;
+}
+	.createBtn a {
+    left: 25%;
+}
+}
+@media(max-width:1199px){
+.force-overflow, .talkAll.force-overflow3 {
+    height: 78vh;
+}
+	.messageRight h2 {
+    font-size: 30px;
+    line-height: 45px;
+}
+	.messageRight h2.second {
+    font-size: 14px;
+    line-height: 22px;
+}
+	.messageRight h2.third {
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 55px;
+}
+	.messageRight a {
+    font-size: 15px;
+	}
+	.talkAll.force-overflow3 {
+    padding: 15px 60px;
+}
+	.createBtn a {
+    left: 28%;
+}
+	.force-overflow5{
+		padding-bottom: 10px;
+	}
+	.contactProfile a {
+    width: 125px;
+    height: 125px;
+}
+	.sendInput {
+    width: 82%;
+}
+	.contactInformation{
+		display: block;
+    width: 57% !important;
+    position: fixed;
+    right: -57%;
+		    height: 100vh;
+    top: 0;
+		box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.16);
+	}
+	.prImg::before{
+		left: -75px;
+	}
+		.prImg::after{
+		right: -75px;
+	}
+}
+@media(max-width:991px){
+.messageLeft {
+    width: 350px;
+}
+	.chatImg {
+    width: 40px;
+    height: 40px;
+		    margin-right: 10px;
+}
+	.chatContent p, .chatContent h2 {
+    width: 225px;
+}
+	h2.heading {
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--colorBlack);
+}
+	.contactInformation {
+    width: 55% !important;
+}
+	.mesageLogo {
+    width: 200px;
+    height: 200px;
+}
+	.messageRight h2 {
+    font-size: 25px;
+    line-height: 35px;
+}
+	.messagegroup {
+    width: 350px;
+}
+.memberProfHead {
+    width: 350px;
+}
+	.chatSetting,.accountPervixy .accountHead{
+		width: 350px;
+	}
+}
+
+@media(max-width:991px){
+	.messageLeft {
+    width: 100%;
+}
+	.messageRight{
+		display: none;
+	}
+}
+@media(max-width:767px){
+	.backMob{
+		display: block;
+		    margin-right: 10px;
+	}
+	.memberProfHead {
+    width: 100%;
+}
+	.messagegroup {
+    width: 100%;
+}
+	.createBtn a {
+    left: unset;
+    right: 5%;
+}
+	.chatSetting, .accountPervixy .accountHead {
+    width: 100%;
+}
+	.force-overflow5, .force-overflow6 {
+    width: 100%;
+}
+	.contactInformation {
+    width: 100% !important;
+		right: -100%;
+}
+	.faqAll,.helpShow{
+		display: none;
+	}
+	.notificationShow .form-group label{
+		margin-left: 0;
+	}
+	.dropdownAll ,.arrow{
+		display: none !important;
+	}
+}
+@media(max-width:560px){
+.talkAll.force-overflow3 {
+    padding: 15px 20px;
+}
+	.imcomingHead{
+		padding: 6px 20px;
+	}
+	.ssearchHead .form-group {
+    width: 60%;
+    margin: 0;
+}
+}
+@media(max-width:414px){
+.chatContent p, .chatContent h2 {
+    width: 212px;
+}
+	.form-controlShow {
+    padding: 8px 10px 8px 40px;
+}
+	.messageGroupHead,.accountPervixy .accountHead {
+    min-height: 56px;
+}
+	.createNew a {
+    padding: 12px;
+    font-size: 16px;
+}
+	.avatar-upload .avatar-edit input + label:after{
+		left: 95px;
+	}
+	.abouAllpro .form-group {
+    padding: 0px 15px;
+}
+	.abouAllpro .form-group .form-control{
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.allSettings ul li a{
+    font-size: 16px;
+    padding: 12px 0px 12px 50px;
+
+	}
+	.ssearchHead .form-group {
+    width: 55%;
+    margin: 0;
+}
+	.imcomingHead {
+    padding: 6px 15px;
+}
+	h2.mainHeading{
+		font-size: 16px;
+	}
+}

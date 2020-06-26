@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#393939}
+        </style>
+    </defs>
+    <g id="prefix__dustbin" transform="translate(-2.235)">
+        <g id="prefix__Group_53802" data-name="Group 53802" transform="translate(2.235)">
+            <path id="prefix__Path_49066" d="M2.833 4.4s.521.463.521.732v11.86a1.561 1.561 0 0 0 1.671 1.422h9.51a1.561 1.561 0 0 0 1.67-1.422V5.138c0-.27.523-.732.523-.732V2.969H2.833zm9.678 1.64h1.242v9.16h-1.242zm-3.326 0h1.239v9.16H9.185zm-3 0H7.43v9.16H6.189z" class="prefix__cls-1" data-name="Path 49066" transform="translate(-2.28 -.414)"/>
+            <path id="prefix__Path_49067" d="M17.235 1.583h-3.823A2.214 2.214 0 0 0 11.163 0H8.308a2.214 2.214 0 0 0-2.249 1.583H2.235v.86h15zm-9.895 0a1.067 1.067 0 0 1 .968-.542h2.853a1.07 1.07 0 0 1 .969.542z" class="prefix__cls-1" data-name="Path 49067" transform="translate(-2.235)"/>
+        </g>
+    </g>
+</svg>

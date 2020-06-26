@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+    <defs>
+        <filter id="prefix__Ellipse_108" width="62" height="62" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="prefix__Group_54004" data-name="Group 54004" transform="translate(9 6)">
+        <g filter="url(#prefix__Ellipse_108)" transform="translate(-9 -6)">
+            <circle id="prefix__Ellipse_108-2" cx="22" cy="22" r="22" fill="#def1f5" data-name="Ellipse 108" transform="translate(9 6)"/>
+        </g>
+        <g id="prefix__ico" transform="translate(17.012 13.2)">
+            <path id="prefix__union" fill="#51c5dc" d="M8.063.3L.385 8.382a1 1 0 0 0-.1.093 1.078 1.078 0 0 0 0 1.459.994.994 0 0 0 .1.095l7.675 8.08a.936.936 0 0 0 1.373 0 1.06 1.06 0 0 0 0-1.444L2.35 9.2l7.086-7.46a1.061 1.061 0 0 0 0-1.44.938.938 0 0 0-1.373 0z"/>
+        </g>
+    </g>
+</svg>

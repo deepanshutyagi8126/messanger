@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__interface-4" width="39.999" height="33.332" viewBox="0 0 39.999 33.332">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#c6c6c6}
+        </style>
+    </defs>
+    <g id="prefix__Group_53624" data-name="Group 53624">
+        <g id="prefix__Group_53623" data-name="Group 53623">
+            <circle id="prefix__Ellipse_13" cx="8.333" cy="8.333" r="8.333" class="prefix__cls-1" data-name="Ellipse 13" transform="translate(11.666 10)"/>
+            <path id="prefix__Path_48823" d="M36.666 47.667H31.38a2.486 2.486 0 0 1-1.768-.732l-3.047-3.047a4.14 4.14 0 0 0-2.947-1.221h-7.237a4.14 4.14 0 0 0-2.947 1.221l-3.047 3.047a2.486 2.486 0 0 1-1.768.732H3.333A3.336 3.336 0 0 0 0 51v21.666A3.337 3.337 0 0 0 3.333 76h33.333A3.337 3.337 0 0 0 40 72.666V51a3.337 3.337 0 0 0-3.334-3.333zM20 71a10 10 0 1 1 10-10 10.011 10.011 0 0 1-10 10zm13.332-15A1.667 1.667 0 1 1 35 54.333 1.669 1.669 0 0 1 33.332 56z" class="prefix__cls-1" data-name="Path 48823" transform="translate(0 -42.667)"/>
+        </g>
+    </g>
+</svg>

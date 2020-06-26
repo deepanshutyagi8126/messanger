@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__dislike" width="16" height="15" viewBox="0 0 16 15">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#d52323}
+        </style>
+    </defs>
+    <path id="prefix__Path_49051" d="M20.787 1h-1.64A1.149 1.149 0 0 0 18 2.148v7.541a1.149 1.149 0 0 0 1.148 1.148h1.64a1.149 1.149 0 0 0 1.148-1.148V2.148A1.149 1.149 0 0 0 20.787 1z" class="prefix__cls-1" data-name="Path 49051" transform="translate(-5.935 -.836)"/>
+    <path id="prefix__Path_49052" d="M3.438.75A2.676 2.676 0 0 0 .792 2.963L.04 7.3a2.671 2.671 0 0 0 2.646 3.12h3.17a6.4 6.4 0 0 0-.5 2.667 2.455 2.455 0 0 0 2.179 2.663c.672 0 1.007-.333 1.007-2 0-1.584 1.545-2.859 2.539-3.515V1.976A15.753 15.753 0 0 0 4.513.75z" class="prefix__cls-1" data-name="Path 49052" transform="translate(0 -.75)"/>
+</svg>
